@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://kahicama.github.io/sitemap/sitemap_index.kahicama
+Sitemap: https://kahicama.github.io/pIQ/sitemap_index.kahicama
+Sitemap: https://kahicama.github.io/vlo/sitemap_index.kahicama
+Sitemap: https://kahicama.github.io/BAv/sitemap_index.kahicama
+Sitemap: https://kahicama.github.io/pBt/sitemap_index.kahicama
+Sitemap: https://kahicama.github.io/cKy/sitemap_index.kahicama
+Sitemap: https://kahicama.github.io/rnV/sitemap_index.kahicama
+Sitemap: https://kahicama.github.io/gqX/sitemap_index.kahicama
+Sitemap: https://kahicama.github.io/XDM/sitemap_index.kahicama
+Sitemap: https://kahicama.github.io/Tdt/sitemap_index.kahicama
+Sitemap: https://kahicama.github.io/aUg/sitemap_index.kahicama
+Sitemap: https://kahicama.github.io/IPH/sitemap_index.kahicama
+Sitemap: https://kahicama.github.io/sXM/sitemap_index.kahicama
+Sitemap: https://kahicama.github.io/qoc/sitemap_index.kahicama
+Sitemap: https://kahicama.github.io/rIi/sitemap_index.kahicama
+Sitemap: https://kahicama.github.io/gZL/sitemap_index.kahicama
+Sitemap: https://kahicama.github.io/IhK/sitemap_index.kahicama
+Sitemap: https://kahicama.github.io/ebD/sitemap_index.kahicama
+Sitemap: https://kahicama.github.io/BwS/sitemap_index.kahicama
+Sitemap: https://kahicama.github.io/drF/sitemap_index.kahicama
+Sitemap: https://kahicama.github.io/SKy/sitemap_index.kahicama
